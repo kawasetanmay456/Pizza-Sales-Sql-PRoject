@@ -35,6 +35,13 @@ This project involves designing and implementing a SQL-based system to analyze p
 - Leveraging JOINs, GROUP BY, CTEs, and window functions for deep data exploration
 - Applying data analysis techniques to drive business insights
 
+
+📎 Resources
+![Presentation Preview](Presentation PizzaSales.pdf)
+
+📬 Contact
+Feel free to reach out if you have any questions or feedback!
+
 ## 📊 Sample Queries
 
 ```sql
@@ -45,9 +52,3 @@ JOIN pizzas ON order_details.pizza_id = pizzas.pizza_id
 GROUP BY pizza_name
 ORDER BY total_sold DESC
 LIMIT 5;
-
-📎 Resources
-![Presentation Preview](Presentation PizzaSales.pdf)
-
-📬 Contact
-Feel free to reach out if you have any questions or feedback!
