@@ -35,11 +35,6 @@ This project involves designing and implementing a SQL-based system to analyze p
 - Leveraging JOINs, GROUP BY, CTEs, and window functions for deep data exploration
 - Applying data analysis techniques to drive business insights
 
-
-📎 Resources
-![Presentation Preview](Presentation PizzaSales.pdf)
-
-
 📬 Contact
 Feel free to reach out if you have any questions or feedback!
 
