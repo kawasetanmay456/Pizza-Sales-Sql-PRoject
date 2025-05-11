@@ -39,6 +39,7 @@ This project involves designing and implementing a SQL-based system to analyze p
 📎 Resources
 ![Presentation Preview](Presentation PizzaSales.pdf)
 
+
 📬 Contact
 Feel free to reach out if you have any questions or feedback!
 
